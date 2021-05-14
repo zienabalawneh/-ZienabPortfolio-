@@ -1,0 +1,173 @@
+body{
+    background-color: #583d72
+}
+header{
+margin-top:-9px;
+position: fixed;
+margin-left: -10px;
+  width: 320px;
+    height: 762px;
+    background-color: #ffc996;}
+
+#name{
+position: relative;
+top: -100px;
+}
+.imgAva{
+
+padding-top: 20px;
+    height: 100px;
+    width: 100px;
+    padding-left: 5px;
+}
+
+#logo h2{
+margin-left: 120px;
+margin-bottom: -10px;
+color: #9f5f80;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  li a {
+    display: block;
+    color: #9f5f80;
+    font-weight: bold;
+    padding: 18px 18px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #9f5f80;
+    color: white;
+  }
+
+  main{
+      margin-left: 310px;
+      margin-top: -8px;
+      background-color: #583d72; width: 1201px;
+
+  
+  }
+
+  #introdction{
+    background-image: url(https://goodwillsega.org/wp-content/uploads/ComputerRoom.jpg);  
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 110px;
+    width: 981px;
+    
+    
+ }
+
+ #introdction #p1{
+    font-family: 'Source Code Pro', monospace;
+text-align: center;
+font-weight:900;
+font-size: 60px;
+opacity: 0.5;
+background-color: #ffc996;
+color: #583d72;
+
+ }
+
+ #introdction #p2{
+background-color: #583d72;
+text-align: center;
+font-size: 25px;
+color: #ffc996;opacity: 0.7;
+font-family: 'Acme', sans-serif;
+
+ }
+
+ #Portfolio{
+margin-top: -35px;
+ background-image:  url(https://besthqwallpapers.com/Uploads/27-9-2019/106262/thumb2-purple-paper-texture-paper-background-paper-texture-with-pattern-purple-creative-background.jpg);
+background-size: cover;
+height: 400px;
+padding-bottom: 100px;
+}
+
+#Portfolio h1{
+  
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+color: #583d72;
+ font-weight: 1000;
+ font-size: 42px;
+margin-top: 10px;
+
+
+ }
+
+ div.gallery {
+    margin: 5px;
+    border: 0px solid #583d72;
+    float: left;
+    width: 200px;
+    height: 0;
+   margin-left: 150px;
+  }
+  
+ 
+  
+  div.gallery img {
+    width: 100%;
+    
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: #ffc996;
+  }
+
+  div.desc:hover {
+    border: 1px solid #ffc996;
+    background-color: #583d72;
+    color:#ffc996 ;
+  }
+
+footer{
+
+  background-color:#fdb877;
+   width: 1201px;
+  clear: both;
+   color:#9f5f80 ;
+  text-align: center;
+  margin-left: 310px;
+  margin-top: -8px;
+  height: 102px;
+
+  margin-bottom: -9px;
+
+}
+footer p{
+  padding-top: 25px;
+  font-size: 25px;
+  font-weight: bold; 
+   
+}
+
+footer p a i {font-size: 20px;
+  padding:15px;
+  color:#583d72;
+
+
+}
+
+
+footer p a  {font-size: 20px;
+  padding:-1px;
+  text-decoration: none;
+
+
+}
+
